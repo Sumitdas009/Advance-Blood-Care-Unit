@@ -13,10 +13,6 @@ Open Your browser put inside browser “http://localhost/bbdms”
 For Admin Panel
 Open Your browser put inside browser “http://localhost/bbdms/admin” OR you can click the Admin login availabe in navbar of the main website
 
-Login Details for admin :
-
-Username: admin
-Password: Test@12345
 
 How to Run Project(host server)
 The project has been hosted on webhost.
